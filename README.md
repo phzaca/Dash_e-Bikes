@@ -24,7 +24,7 @@ Criei um arquivo no Excel que relacionava os nomes dos países com as URLs das b
 # 3. Power BI: Criação do Relatório Interativo
 Ao entrar no Power BI, segui com as seguintes etapas de análise e visualização:
 
-# Página 1: Relatório de Vendas e Lucros
+-- Página 1: Relatório de Vendas e Lucros
 Gráficos:
 Linha do tempo para analisar a quantidade de vendas ao longo do tempo.
 Gráfico de área que compara o investimento e o lucro.
@@ -38,7 +38,7 @@ Gráfico de Rosca para comparar o gênero dos clientes (masculino e feminino).
 Gráfico de Pizza para mostrar as faixas etárias dos clientes.
 Botões de navegação entre as páginas.
 
-# Página 2: Exportações
+-- Página 2: Exportações
 Mapa interativo mostrando os países que compraram na loja .
 Grid com as bandeiras dos países, conforme o arquivo Excel criado anteriormente.
 Cartões com:
@@ -46,7 +46,7 @@ Lucro
 Porcentagem de lucro 
 Quantidade de vendas 
 
-# Página 3: Produto
+-- Página 3: Produto
 Árvore hierárquica interativa: Exibição das categorias, subcategorias e produtos. Conforme o usuário clica em um item, os gráficos se atualizam dinamicamente.
 Gráficos:
 Participação do lucro por meio de uma barra.
@@ -64,7 +64,7 @@ Criei o fundo de cada página de forma simples usando o Paint .
 Considerações Finais
 Esse projeto me proporcionou uma experiência prática com manipulação de dados, análise exploratória e criação de relatórios interativos no Power BI. O uso de gráficos e dashboards facilitou a análise dos dados de vendas, investimentos e lucros da loja de e-commerce de bicicletas.
 
-Tecnologias Utilizadas 🛠️
+## Tecnologias Utilizadas 🛠️
 Python (pandas)
 Excel
 Power BI
